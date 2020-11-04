@@ -1,4 +1,4 @@
-### Hello there, my name is Jānis. I'm currently learning back-end development using PHP.
+## Hello there! My name is Jānis and I'm currently learning back-end development using PHP.
 
 ### Here are my TOP 3 repositories:
 (https://github.com/JanisLeja96/VirtualWallet) -- A virtual wallet app
