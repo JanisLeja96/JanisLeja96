@@ -5,4 +5,4 @@
 
 (https://github.com/JanisLeja96/Pokerhand-evaluator) -- A pokerhand evaluation tool written in TypeScript
 
-(https://github.com/JanisLeja96/laravel-blog) -- A WIP blog
+(https://github.com/JanisLeja96/CV_Application) -- A WIP CV Editor
